@@ -24,3 +24,7 @@ document.write("<br>" + chars.pop());   // 추출한 요소 반환
 document.write("<br>" + chars.shift());
 document.write("<br><br> 변경 후 nums : " + nums);
 document.write("<br> 변경 후 chars : " + chars);
+
+// 이 외에도 splice(), slice() 등이 있음
+// splice() : 원하는 인덱스의 요소를 삭제하거나 추가 (추가시 두번째 인자는 0)
+// slice() : 원하는 인덱스의 요소들을 추출 (추출시 기존 배열에 영향 X)
