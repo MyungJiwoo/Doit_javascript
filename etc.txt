@@ -1,0 +1,10 @@
+git add . 했을 때
+
+warning: LF will be replaced by CRLF in ~~~
+The file will have its original line endings in your working directory
+
+이런 오류가 난다면
+
+git config --global core.autocrlf true
+
+으로 해결하기
