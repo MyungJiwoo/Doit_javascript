@@ -2,6 +2,7 @@ git add . 했을 때
 
 warning: LF will be replaced by CRLF in ~~~
 The file will have its original line endings in your working directory
+==> OS마다 줄바꿈을 바라보는 문자열이 다르기 때문에 형상관리를 해주는 Git이 어느 방식을 택해야 하는지?
 
 이런 오류가 난다면
 
