@@ -49,7 +49,7 @@
 			margin-right:10px;
 		}
 		.del:hover {
-			color:#222;
+			color:rgb(243, 208, 13);
 			cursor: pointer;
 		}
 		.del:active {
